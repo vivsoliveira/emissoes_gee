@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+todas_emissoes.parquet filter=lfs diff=lfs merge=lfs -text
